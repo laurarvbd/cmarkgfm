@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fcmarkgfm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fcmarkgfm?ref=badge_shield)
+
 cmarkgfm - Python bindings to GitHub's cmark
 ============================================
 
@@ -47,3 +49,7 @@ License
 
 This project is under the MIT License. It includes components under differing
 copyright under the ``third_party`` directory in this source tree.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fcmarkgfm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fcmarkgfm?ref=badge_large)
